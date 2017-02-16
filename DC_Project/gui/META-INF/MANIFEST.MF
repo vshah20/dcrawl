@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.7.0_05-b05 (Oracle Corporation)
+Built-By: Karsten
+Specification-Title: JGoodies Animation API Specification
+Specification-Version: 1.4
+Specification-Vendor: JGoodies Karsten Lentzsch
+Implementation-Title: JGoodies Animation
+Implementation-Version: 1.4.2 2012-07-24 10:26:33
+Implementation-Vendor: JGoodies Karsten Lentzsch
+
